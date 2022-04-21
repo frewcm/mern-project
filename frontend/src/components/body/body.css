@@ -1,0 +1,26 @@
+.body{
+    top: 80px;
+    width: 100%;
+    height: auto;
+}
+.container{
+    width: 400px;
+    height: 600px;
+    margin: 50px;
+}
+.title{
+    height: 40px;
+    width: 400px;
+}
+.description{
+    height: 40px;
+    width: 400px;
+}
+.link{
+    height: 40px;
+    width: 400px;
+}
+.catagory{
+    height: 40px;
+    width: 400px;
+}

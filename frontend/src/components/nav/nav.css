@@ -1,0 +1,38 @@
+.nav{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    position: fixed;
+    background-color: white;
+    box-shadow: 0.75em 0.75em 1em #f0f0fa;
+}
+.left{
+    flex: 50%;
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    color: #ADD8E6;
+}
+.right{
+    flex: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 30px;
+}
+.input{
+    width: 200px;
+    height: 40px;
+    margin-right: 2px;
+    padding-left: 5px;
+    border-radius: 5px;
+    border-color: #ADD8E6;
+}
+.button{
+    height: 40px;
+    width: 60px;
+    background-color: #ADD8E6;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
